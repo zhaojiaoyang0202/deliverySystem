@@ -1,0 +1,5 @@
+2023-07-18 17:48:56,baseAPI(line:54),INFO|模块名:Login,接口名:login
+    请求的url:http://42.192.62.8:8082/account/sLogin
+    请求方法:POST
+    请求体:username=ct0958&password=97cbc42bf29a147e4a2c287664032734
+    响应体:{'code': 20000, 'data': {'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODk2NzczMzcsInVzZXJJZCI6MTY0NjIsInVzZXJuYW1lIjoiY3QwOTU4In0.gFJP_iF0kMnfr3sHTJg3Jri2WrcrEfEyF-mrASCQy-k'}, 'flag': '松勤教育', 'msg': '成功', 'success': False}

@@ -1,0 +1,48 @@
+2023-07-14 10:27:37,baseAPI(line:55),INFO|模块名:Login,接口名:login
+2023-07-14 10:27:37,baseAPI(line:56),INFO|请求的url:http://42.192.62.8:8082/account/sLogin
+2023-07-14 10:27:37,baseAPI(line:57),INFO|请求方法:POST
+2023-07-14 10:27:37,baseAPI(line:68),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\baseAPI.py", line 58, in request_send
+    log.info()
+TypeError: Logger.info() missing 1 required positional argument: '_Logger__message'
+
+2023-07-14 10:27:37,baseAPI(line:55),INFO|模块名:Login,接口名:login
+2023-07-14 10:27:37,baseAPI(line:56),INFO|请求的url:http://42.192.62.8:8082/account/sLogin
+2023-07-14 10:27:37,baseAPI(line:57),INFO|请求方法:POST
+2023-07-14 10:27:37,baseAPI(line:68),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\baseAPI.py", line 58, in request_send
+    log.info()
+TypeError: Logger.info() missing 1 required positional argument: '_Logger__message'
+
+2023-07-14 10:27:37,baseAPI(line:55),INFO|模块名:Login,接口名:login
+2023-07-14 10:27:37,baseAPI(line:56),INFO|请求的url:http://42.192.62.8:8082/account/sLogin
+2023-07-14 10:27:37,baseAPI(line:57),INFO|请求方法:POST
+2023-07-14 10:27:37,baseAPI(line:68),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\baseAPI.py", line 58, in request_send
+    log.info()
+TypeError: Logger.info() missing 1 required positional argument: '_Logger__message'
+
+2023-07-14 10:27:37,baseAPI(line:55),INFO|模块名:Login,接口名:login
+2023-07-14 10:27:37,baseAPI(line:56),INFO|请求的url:http://42.192.62.8:8082/account/sLogin
+2023-07-14 10:27:37,baseAPI(line:57),INFO|请求方法:POST
+2023-07-14 10:27:37,baseAPI(line:68),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\baseAPI.py", line 58, in request_send
+    log.info()
+TypeError: Logger.info() missing 1 required positional argument: '_Logger__message'
+
+2023-07-14 10:27:37,baseAPI(line:55),INFO|模块名:Login,接口名:login
+2023-07-14 10:27:37,baseAPI(line:56),INFO|请求的url:http://42.192.62.8:8082/account/sLogin
+2023-07-14 10:27:37,baseAPI(line:57),INFO|请求方法:POST
+2023-07-14 10:27:37,baseAPI(line:68),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\baseAPI.py", line 58, in request_send
+    log.info()
+TypeError: Logger.info() missing 1 required positional argument: '_Logger__message'
+
+2023-07-14 10:27:38,baseAPI(line:55),INFO|模块名:Login,接口名:login
+2023-07-14 10:27:38,baseAPI(line:56),INFO|请求的url:http://42.192.62.8:8082/account/sLogin
+2023-07-14 10:27:38,baseAPI(line:57),INFO|请求方法:POST
+2023-07-14 10:27:38,baseAPI(line:68),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\baseAPI.py", line 58, in request_send
+    log.info()
+TypeError: Logger.info() missing 1 required positional argument: '_Logger__message'
+

@@ -1,0 +1,36 @@
+2023-07-13 17:35:48,apiAssert(line:47),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\apiAssert.py", line 45, in api_assert
+    raise AssertionError('请输入正确的断言情况')
+AssertionError: 请输入正确的断言情况
+
+2023-07-13 17:35:48,apiAssert(line:48),ERROR|断言失败
+2023-07-13 17:35:48,apiAssert(line:47),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\apiAssert.py", line 45, in api_assert
+    raise AssertionError('请输入正确的断言情况')
+AssertionError: 请输入正确的断言情况
+
+2023-07-13 17:35:48,apiAssert(line:48),ERROR|断言失败
+2023-07-13 17:35:48,apiAssert(line:47),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\apiAssert.py", line 45, in api_assert
+    raise AssertionError('请输入正确的断言情况')
+AssertionError: 请输入正确的断言情况
+
+2023-07-13 17:35:48,apiAssert(line:48),ERROR|断言失败
+2023-07-13 17:35:49,apiAssert(line:47),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\apiAssert.py", line 45, in api_assert
+    raise AssertionError('请输入正确的断言情况')
+AssertionError: 请输入正确的断言情况
+
+2023-07-13 17:35:49,apiAssert(line:48),ERROR|断言失败
+2023-07-13 17:35:49,apiAssert(line:47),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\apiAssert.py", line 45, in api_assert
+    raise AssertionError('请输入正确的断言情况')
+AssertionError: 请输入正确的断言情况
+
+2023-07-13 17:35:49,apiAssert(line:48),ERROR|断言失败
+2023-07-13 17:35:49,apiAssert(line:47),ERROR|Traceback (most recent call last):
+  File "E:\deliverySystem\common\apiAssert.py", line 45, in api_assert
+    raise AssertionError('请输入正确的断言情况')
+AssertionError: 请输入正确的断言情况
+
+2023-07-13 17:35:49,apiAssert(line:48),ERROR|断言失败
